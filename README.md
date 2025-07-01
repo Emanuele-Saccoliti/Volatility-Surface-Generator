@@ -4,4 +4,4 @@
   
 - Extracts market data using Yahoo Finance and processes option chains across multiple expirations and strikes.
   
-- Displays a 3D volatility surface with color gradients showing how implied volatility changes across strike prices and expirations.
+- Displays a 3D volatility surface with color gradients showing how implied volatility changes across strike prices and expirations, providing a clear visualization of the volatility smile and term structure.
