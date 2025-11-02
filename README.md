@@ -1,4 +1,4 @@
-# Volatility-Surface-Generator
+# Repository Description
 
 - This reposority provides a Python-based engine leveraging JAX for automatic differentiation to price European options, calculate Greeks, and compute implied volatilities via Newton-Raphson optimization from market data.
   
