@@ -17,7 +17,7 @@
 # 📌 Key Takeaways
 * High-performance computation: Iterative root-finding can be computationally expensive; using vectorized JAX operations accelerates pricing and gradient evaluation.
 * Efficient Greek computation: Greeks involve derivatives of the pricing function. Leveraging JAX for automatic differentiation avoids manual derivation, reduces numerical error, and improves computational speed.
-Reliable implied volatility extraction: Computing implied volatilities requires solving a nonlinear equation. Using Newton–Raphson with JAX-based automatic differentiation ensures fast and stable convergence, even for strikes with low liquidity or poor quoting quality.
+* Reliable implied volatility extraction: Computing implied volatilities requires solving a nonlinear equation. Using Newton–Raphson with JAX-based automatic differentiation ensures fast and stable convergence, even for strikes with low liquidity or poor quoting quality.
 
 
 # ⚠️ Challenges
